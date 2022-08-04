@@ -1,0 +1,39 @@
+:root{
+    --primay:#fff;
+    --secondary: #ccc;
+}
+
+*{
+    padding:0;
+    margin:0;
+    outline:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--secondary);
+    background: var(--secondary);
+}
+
+h1{
+    font-size: 4rem;
+    color: var(--primay);
+}
+
+.container{
+    height: 100vh;
+    width:100vw;
+    overflow: hidden;
+    background: #333 url('https://image.ibb.co/n5A2HU/showcase.jpg') no-repeat center center / cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:left;
+    padding: 0 3rem;
+}
+
+.txt{
+    border-right:2px solid var(--primay);
+}

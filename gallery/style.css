@@ -1,0 +1,25 @@
+.container{
+    margin:20px;
+}
+
+img{
+    width:100%;
+    cursor:pointer;
+}
+
+.gallerys{
+    display:grid;
+    grid-gap:5px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@keyframes fadein{
+    to{
+        opacity: 1;
+    }
+}
+
+.fadein{
+    opacity:0;
+    animation:fadein 0.5s ease-in-out forwards;
+}
