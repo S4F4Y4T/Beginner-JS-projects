@@ -75,8 +75,8 @@ Here's the list of projects
   
 ### Auto Typer 
 
-  This is a js script which will auto type your preset words  
-  Uploading preview.mov…
+This is a js script which will auto type your preset words  
+  https://user-images.githubusercontent.com/46479689/206565115-c68df5a7-92bb-4d16-aa52-dca595ed472c.mov
 
 ### Fast Typer 
   [Screencast_8-12-22_07:17:51 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206564060-421be654-cf59-4198-bbb0-bae5e7806e83.webm)
@@ -89,10 +89,10 @@ Go to the game directory and open the index.html. Then choose one of the options
 ![rps-2](https://user-images.githubusercontent.com/46479689/206564145-f1ef3fd6-ea09-4229-b3ee-79709f6112b8.png)
 
 ### Slider 
-[Uploading Screencast_8-12-22_07:19:19 অপরাহ্ণ +06.webm…]()
+  [Uploading Screencast_8-12-22_07:19:19 অপরাহ্ণ +06.webm…]()
 
 ### Gallery 
-[Uploading Screencast_8-12-22_07:18:25 অপরাহ্ণ +06.webm…]()
+  [Uploading Screencast_8-12-22_07:18:25 অপরাহ্ণ +06.webm…]()
 
 ### Drag & Drop 
 [Screencast_8-12-22_07:14:48 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206564224-59989c4c-207b-4d0b-9555-c9e7a31b5085.webm)
