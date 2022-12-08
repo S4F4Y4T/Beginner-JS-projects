@@ -8,7 +8,7 @@ let runtime = 5;
 let isPlaying;
 let scorenum = 0;
 
-const words = ['fuck','suck','hack','motherfucker','sucker'];
+const words = ['tiger','lion','panda','elephant','program'];
 
 window.addEventListener('load',init);
 
