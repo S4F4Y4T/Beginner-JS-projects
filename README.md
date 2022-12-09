@@ -76,10 +76,14 @@ Here's the list of projects
 ### Auto Typer 
 
 This is a js script which will auto type your preset words  
-  https://user-images.githubusercontent.com/46479689/206565115-c68df5a7-92bb-4d16-aa52-dca595ed472c.mov
+  https://user-images.githubusercontent.com/46479689/206623452-2aaf3c32-d7ba-4634-a672-a559db5c7ae8.mov
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Fast Typer 
   [Screencast_8-12-22_07:17:51 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206564060-421be654-cf59-4198-bbb0-bae5e7806e83.webm)
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Rock Paper Scissors 
 We all have played rock-paper-scessior as a child. This is is just the web version of that game. Where you can play with the bot.
@@ -88,20 +92,33 @@ Go to the game directory and open the index.html. Then choose one of the options
 ![rps](https://user-images.githubusercontent.com/46479689/206564130-3115f115-22d7-4a1f-9d69-3931e9311ea9.png)
 ![rps-2](https://user-images.githubusercontent.com/46479689/206564145-f1ef3fd6-ea09-4229-b3ee-79709f6112b8.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Slider 
-  [Uploading Screencast_8-12-22_07:19:19 অপরাহ্ণ +06.webm…]()
+  [Screencast_8-12-22_07:19:19 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206623630-f591a7b6-ee48-4588-917e-d4d9bc108dd6.webm)
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Gallery 
-  [Uploading Screencast_8-12-22_07:18:25 অপরাহ্ণ +06.webm…]()
+  [Screencast_8-12-22_07:18:25 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206624603-7daaa0c0-082f-4e2e-b699-b5f62730e503.webm)
+  
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Drag & Drop 
 [Screencast_8-12-22_07:14:48 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206564224-59989c4c-207b-4d0b-9555-c9e7a31b5085.webm)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Drop Down 
 [Screencast_8-12-22_07:15:17 অপরাহ্ণ +06.webm](https://user-images.githubusercontent.com/46479689/206564236-92e9102a-48d5-49bf-8939-62ff12171d5a.webm)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Modal 
 ![modal](https://user-images.githubusercontent.com/46479689/206564310-2027e698-e896-49ce-91a8-67535208c192.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
