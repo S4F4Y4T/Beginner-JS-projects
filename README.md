@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-These are the some beginner level javascript projects which i have built on the beginning of my journey(2017-2020) to learn and experiment by following some youtube channel so some of the project you may find similiar.
+These are the some beginner level javascript projects which i have built in the beginning of my journey(2017-2020) to learn and experiment by following some youtube channel so some of the project you may find similiar.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
