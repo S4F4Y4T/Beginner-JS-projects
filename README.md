@@ -75,8 +75,9 @@ Here's the list of projects
   
 ### Auto Typer 
 
-This is a js script which will auto type your preset words  
-  https://user-images.githubusercontent.com/46479689/206623452-2aaf3c32-d7ba-4634-a672-a559db5c7ae8.mov
+This is a js script which will auto type your preset words 
+
+https://user-images.githubusercontent.com/46479689/206623452-2aaf3c32-d7ba-4634-a672-a559db5c7ae8.mov
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +118,6 @@ Go to the game directory and open the index.html. Then choose one of the options
 
 ### Modal 
 ![modal](https://user-images.githubusercontent.com/46479689/206564310-2027e698-e896-49ce-91a8-67535208c192.png)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
